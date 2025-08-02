@@ -47,7 +47,7 @@ pip install -r requirements.txt
 3. Run the Script:
 
 ```bash
-python Script_3.pyw
+python Photo-Editor-FC25-modding-utilities.pyw
 ```
 
 ## Notes
@@ -66,4 +66,5 @@ This project is licensed under the MIT License. See `LICENSE` for more details.
 **Year:** 2025  
 **Inspired by:** Paulv2k4, eshortX, Decoruiz
 **Open-source | FC25 Modding Utility**
+
 
