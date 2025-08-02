@@ -1,0 +1,15 @@
+```gitignore
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+env/
+venv/
+
+# Log and temporary files
+*.log
+*.tmp
+temp/

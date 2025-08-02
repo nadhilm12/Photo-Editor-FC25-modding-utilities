@@ -1,0 +1,4 @@
+ttkbootstrap>=1.16.2
+Pillow>=9.3.0
+rembg>=2.0.50
+# ImageMagick need to be manually install, go to website
